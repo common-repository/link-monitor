@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2016-10-24 20:54+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: inc/admin.php:49
+msgid "Links On This Page"
+msgstr ""
+
+#: inc/admin.php:69
+#, php-format
+msgid "View All Clicks (%s)"
+msgstr ""
+
+#: inc/admin.php:84
+msgid "Links Monitor Settings"
+msgstr ""
+
+#: inc/admin.php:91
+msgid "Hide links on this page"
+msgstr ""
+
+#: inc/admin.php:108
+msgid "Link Monitor Settings Admin"
+msgstr ""
+
+#: inc/admin.php:108
+msgid "Link Monitor"
+msgstr ""
+
+#: inc/admin.php:120
+msgid "Link Monitor Settings"
+msgstr ""
+
+#: inc/admin.php:138
+msgid "Modify Your General Link Monitor Settings"
+msgstr ""
+
+#: inc/admin.php:140
+msgid "GET Parameter"
+msgstr ""
+
+#: inc/admin.php:141
+msgid "In Posts"
+msgstr ""
+
+#: inc/admin.php:142
+msgid "In Pages"
+msgstr ""
+
+#: inc/admin.php:143
+msgid "In Excerpts"
+msgstr ""
+
+#: inc/admin.php:144
+msgid "In Comments"
+msgstr ""
+
+#: inc/admin.php:145
+msgid "In Feed/RSS"
+msgstr ""
+
+#: inc/admin.php:146
+msgid "In Custom Posts"
+msgstr ""
+
+#: inc/admin.php:168
+msgid ""
+"This is the settings page for Link Monitor, here you can globally activate "
+"or deactivate links monitoring."
+msgstr ""
+
+#: inc/admin.php:226 inc/admin.php:256
+msgid "IP"
+msgstr ""
+
+#: inc/admin.php:227 inc/admin.php:257
+msgid "URL"
+msgstr ""
+
+#: inc/admin.php:228 inc/admin.php:258
+msgid "First Click"
+msgstr ""
+
+#: inc/admin.php:229 inc/admin.php:259
+msgid "Clicks"
+msgstr ""
+
+#: inc/admin.php:230 inc/admin.php:260
+msgid "Last Click"
+msgstr ""
